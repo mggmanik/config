@@ -1,9 +1,9 @@
 spring:
     data:
         mongodb:
-            uri: mongodb://root:root123@http://172.23.239.122:27017/message_service
-#             database: MessageServiceDb
-#             host: http://172.23.239.122
-#             port: 27017
-#             password: root123
-#             username: root
+#             uri: mongodb://root:root123@http://172.23.239.122:27017/message_service
+            database: MessageServiceDb
+            host: localhost
+            port: 27017
+            password: root123
+            username: root
