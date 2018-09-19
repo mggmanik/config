@@ -1,9 +1,9 @@
 spring:
     data:
         mongodb:
-            database: channelDb
+            database: channelDatabase
             host: localhost
-            username: gayathri1996
+            username: gaya397
             password: root123
             port: 27017
             
