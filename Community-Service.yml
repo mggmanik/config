@@ -1,0 +1,10 @@
+
+spring:
+    data:
+        mongodb:
+            database: communityDb
+            username: rajashri
+            password: root
+            host: localhost            
+            port: 27017
+            
