@@ -2,8 +2,8 @@
 spring:
     data:
         mongodb:
-            database: communityDb
-            username: rajashri
+            database: communityDatabase
+            username: rajshri
             password: root
             host: localhost            
             port: 27017
