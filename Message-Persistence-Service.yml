@@ -1,0 +1,6 @@
+spring:
+  data:
+   cassandra:
+     schema-action: CREATE_IF_NOT_EXISTS
+     contact-points: localhost
+     keyspace-name: message_key_space
