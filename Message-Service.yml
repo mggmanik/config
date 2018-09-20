@@ -6,3 +6,11 @@ spring:
             port: 27017
             password: root123
             username: root
+topic1:
+  boot: message
+topic2:
+  boot: channel
+groupId1:
+  boot: message_group
+groupId2:
+  boot: channel_group            
