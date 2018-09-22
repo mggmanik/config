@@ -8,3 +8,7 @@ spring:
     hibernate.ddl-auto: update
     generate-ddl: true
     show-sql: true
+topic:
+  boot: user_details
+groupId:
+  boot: user_group
