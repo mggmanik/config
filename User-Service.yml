@@ -6,3 +6,5 @@ spring:
             password: root12
             port: 27017
             username: root12
+topic:
+    boot: user_details 
