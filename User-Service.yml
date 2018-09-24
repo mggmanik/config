@@ -10,3 +10,5 @@ topic:
     boot: user_details 
 groupId:
   boot: user_group
+server:
+  boot: 172.23.239.122:9092
