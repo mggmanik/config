@@ -10,3 +10,5 @@ spring:
     show-sql: true
 topic:
   boot: user_details
+server:
+  boot: 172.23.239.122:9092
