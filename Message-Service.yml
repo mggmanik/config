@@ -13,4 +13,6 @@ topic2:
 groupId1:
   boot: message_group
 groupId2:
-  boot: channel_group            
+  boot: channel_group   
+server:
+  boot: 172.23.239.122:9092
