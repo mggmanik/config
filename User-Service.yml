@@ -8,3 +8,5 @@ spring:
             username: root12
 topic:
     boot: user_details 
+groupId:
+  boot: user_group
