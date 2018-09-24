@@ -10,5 +10,3 @@ spring:
     show-sql: true
 topic:
   boot: user_details
-groupId:
-  boot: user_group
