@@ -11,4 +11,6 @@ topic2:
 groupId1:
   boot: message_group_persist
 groupId2:
-  boot: channel_group_persist     
+  boot: channel_group_persist
+server:
+  boot: 172.23.239.122:9092
