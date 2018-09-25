@@ -1,0 +1,6 @@
+search-topic:
+    boot: search_user
+groupId:
+    boot: search_user_group
+server:
+    boot: 172.23.239.122:9092
