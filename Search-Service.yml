@@ -3,7 +3,7 @@ spring:
         mongodb:
             database: SearchServiceDB
             host: localhost
-            password: root123
+            password: root
             port: 27017
             username: root
 search-topic:
