@@ -1,7 +1,11 @@
 spring:
-  redis:
-    host: localhost
-    port: 6379
+    data:
+        mongodb:
+            database: SearchServiceDB
+            host: localhost
+            password: root123
+            port: 27017
+            username: root
 search-topic:
     boot: search_user
 groupId:
